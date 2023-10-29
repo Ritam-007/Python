@@ -88,7 +88,7 @@ def ai_move():
 root = tk.Tk()
 root.title("Tic-Tac-Toe")
 
-board = [[' ' for _ in range(3)] for _ in range(3]
+board = [[' ' for _ in range(3)] for _ in range(3)]
 buttons = []
 
 for i in range(3):
